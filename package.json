@@ -1,7 +1,7 @@
 {
   "description": "See all my photos, but upside down!",
   "repository": {
-    "title": "Upside Down Photos",
+    "title": "Singly Test App",
     "uses": {
       "types": [ "photos" ],
       "services": [ "facebook", "twitter", "foursquare", "instagram" ]
