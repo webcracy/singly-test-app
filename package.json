@@ -1,6 +1,7 @@
 {
-  "name": "singly-test-app"
+  "name": "singly-test-app",
   "description": "See all my photos, but upside down!",
+  "author": "Alex Solleiro <alex@webcracy.org>",
   "repository": {
     "title": "Singly Test App",
     "uses": {
